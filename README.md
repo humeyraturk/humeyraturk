@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Humeyra Turk
+- Software Engineering Student
+-
